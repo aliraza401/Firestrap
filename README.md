@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/aliraza401/Firestrap/blob/master/firestrap.css">
-    <img src="" alt="Fluid logo" width="256" height="256">
+    <img src="" alt="Firestrap logo" width="256" height="256">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ##### Using CDN
 
 1. Just copy stylesheet link into HTML <head> tag `<link rel="stylesheet" href="https://rawcdn.githack.com/aliraza401/Firestrap/e4bd67f005abbfc2c6a56e57430287289d5a0995/firestrap.css" />`.
-2. Start using Fluid
+2. Start using Firestrap now
 
 ## File Structure
 
